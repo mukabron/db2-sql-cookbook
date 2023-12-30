@@ -57,7 +57,7 @@ Observe that the above two views have the following characteristics:
 
 === Join Syntax
 
-Db2 SQL comes with two quite different ways to represent a join. Both syntax styles will be shown throughout this section though, in truth, ne of the styles is usually the better, depending upon the situation. + 
+Db2 SQL comes with two quite different ways to represent a join. Both syntax styles will be shown throughout this section though, in truth, one of the styles is usually the better, depending upon the situation. + 
 The first style, which is only really suitable for inner joins, involves listing the tables to be joined in a FROM statement. A comma separates each table name. A subsequent WHERE statement constrains the join.
 
 Here are some sample joins:
